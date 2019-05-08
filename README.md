@@ -1,2 +1,3 @@
-# RateAssistantJSP
-[Homework 6] College project for Web programming course.
+# Rate Assistant JSP
+
+College project for Web programming course.
